@@ -1,2 +1,2 @@
 # Data-science-projects
-Open the files with "github.dev" if you are facing trouble opening them.
+If you are facing trouble opening them, try disabling your browser extensions or open the files with "github.dev"!
